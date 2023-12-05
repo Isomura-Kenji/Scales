@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=MainScales.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=MainScales.SchDoc|Designator=U_Base|SchDesignator=U_Base|FileName=Base.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Base.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MainScales.SchDoc|Designator=U_Hard|SchDesignator=U_Hard|FileName=Hard.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Hard.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=MainScales.SchDoc|FileName=Soft.SchDoc|SheetNumber=4
